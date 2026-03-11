@@ -1,6 +1,4 @@
-﻿using System;
-using System.IO;
-
+﻿// ImplicitUsings enabled
 namespace TextEditor
 {
     class Program
